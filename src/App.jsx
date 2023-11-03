@@ -1,12 +1,13 @@
 import './App.css'
 import { Container } from './config/global-style'
+import { Header } from './layout/header/header'
 
 function App() {
 
   return (
     <>
       <Container>
-        <h2>sdasd</h2>
+        <Header></Header>
       </Container>
    
     </>
